@@ -44,9 +44,8 @@ public static void main(String[]args){
    scan = new Scanner(System.in);
    System.out.println("Guess a number between 1 and 100:");
    number = scan.nextInt();
-   //System.out.println(randomNumber());
    rightNumber();
-   //System.out.println(randomNumber());
+   
    
 }
 
